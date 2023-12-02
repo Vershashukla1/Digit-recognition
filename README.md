@@ -6,7 +6,7 @@ Goal:
 Participants are tasked with developing models capable of correctly identifying the digits (0-9) present in handwritten images. The objective is to predict the correct label for each image in the test dataset.
 
 Evaluation Metric:
-The competition's evaluation metric is categorization accuracy, measured as the percentage of correctly predicted images. The accuracy of predictions on the test set determines the model's performance.
+The evaluation metric is categorization accuracy, measured as the percentage of correctly predicted images. The accuracy of predictions on the test set determines the model's performance.
 
 Repository Contents:
 Data: Includes datasets for training, validation, and testing.
