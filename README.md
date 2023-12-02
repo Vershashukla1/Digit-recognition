@@ -1,5 +1,5 @@
 # Digit-recognition
-# Handwritten Digit Recognition Competition
+# Handwritten Digit Recognition 
 This repository hosts code for a on recognizing single digits from handwritten images. The goal is to accurately predict the digit represented in each image within the test set.
 
 Goal:
